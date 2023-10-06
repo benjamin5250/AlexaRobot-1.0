@@ -79,7 +79,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
- ──『[ᴘᴜʀᴘʟᴇ ᴘʟᴀɴᴇᴛ ᴍᴀɴᴀɢᴇʀ](https://te.legra.ph/file/5e3c7aef33003ba82d358.jpgစ)』
+ ──『[ᴘᴜʀᴘʟᴇ ᴘʟᴀɴᴇᴛ ᴍᴀɴᴀɢᴇʀ](https://te.legra.ph/file/5e3c7aef33003ba82d358.jpg)』
 
 *ʜɪ ᴍᴀᴛᴇ 🤞ɪ'ᴍ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴀᴅᴠᴀɴᴄᴇᴅ ғᴇᴀᴛᴜʀᴇs ғʀᴏᴍ ᴘᴜʀᴘʟᴇ ᴘʟᴀɴᴇᴛ.ᴀᴅᴅ ᴍᴇ ɪɴᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀᴍᴅ sᴇᴇ ᴍʏ ᴍᴀɢɪᴄ! 🪄
 ────────────────────────
@@ -92,8 +92,8 @@ PM_START_TEXT = """
 PMSTART_CHAT = (
     "[ɢᴇᴛ ʙᴜsʏ ʟɪᴠɪɴɢ ᴏʀ ɢᴇᴛ ʙᴜsʏ ᴅʏɪɴɢ!!!](https://te.legra.ph/file/5e3c7aef33003ba82d358.jpg)",
     "[ɪ'ᴍ ᴅʀ ᴀsᴀᴅ ᴀʟɪ ᴘʀᴏᴊᴇᴄᴛ](https://te.legra.ph/file/5e3c7aef33003ba82d358.jpg)",
-    "[ᴛᴜʀɴ ʏᴏᴜʀ ᴡᴏᴜɴᴅs ɪɴᴛᴏ ᴡɪsᴅᴏᴍ 🔥](https://telegra.ph/file/35e730dea457c85cc367b.mp4)",
-    "[ʜᴀʜᴀʜᴀᴀ ɪ ᴀᴍ ᴀʟᴇx!!!!](https://telegra.ph/file/6f43301a3e43d20f7906a.jpg)", )
+    "[ᴛᴜʀɴ ʏᴏᴜʀ ᴡᴏᴜɴᴅs ɪɴᴛᴏ ᴡɪsᴅᴏᴍ 🔥](https://te.legra.ph/file/5e3c7aef33003ba82d358.jpg)",
+    "[ʜᴀʜᴀʜᴀᴀ ɪ ᴀᴍ Pᴜʀᴘʟᴇ Pʟᴀɴᴇᴛ Mᴀɴᴀɢᴇʀ!!!!](https://te.legra.ph/file/5e3c7aef33003ba82d358.jpg)", )
 
 buttons = [
     [
@@ -135,10 +135,10 @@ HELP_IMG= "https://te.legra.ph/file/5e3c7aef33003ba82d358.jpg"
 GROUPSTART_IMG= "https://te.legra.ph/file/5e3c7aef33003ba82d358.jpg"
 
 PM_IMG = ( "https://te.legra.ph/file/5e3c7aef33003ba82d358.jpg",
-           "https://telegra.ph/file/6f43301a3e43d20f7906a.jpg",
-           "https://telegra.ph/file/c71c9940f27143f1d6b7b.jpg",
-           "https://telegra.ph/file/93aa52512ccd256888b28.jpg",
-           "https://telegra.ph/file/0d7fd638c3c2ea21176a1.jpg", )
+           "https://te.legra.ph/file/5e3c7aef33003ba82d358.jpg",
+           "https://te.legra.ph/file/5e3c7aef33003ba82d358.jpg",
+           "https://te.legra.ph/file/5e3c7aef33003ba82d358.jpg",
+           "https://te.legra.ph/file/5e3c7aef33003ba82d358.jpg", )
 
 
 IMPORTED = {}
