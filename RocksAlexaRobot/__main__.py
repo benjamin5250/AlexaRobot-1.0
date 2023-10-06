@@ -397,7 +397,7 @@ def help_button(update, context):
 
 def alexa_data_callback(update, context):
     query = update.callback_query
-    if query.data == "purple_"     
+    if query.data == "alexa_"     
       query.message.edit_text(
             text="""CallBackQueriesData Here""",
             parse_mode=ParseMode.MARKDOWN,
@@ -746,7 +746,7 @@ def main():
             updater.bot.set_webhook(url=URL + TOKEN)
 
     else:
-        LOGGER.info("Rocks Alexa is now alive and functioning")
+        LOGGER.info("Purple Planet Manager is now alive and functioning")
         updater.start_polling(timeout=15, read_latency=4, clean=True)
 
     if len(argv) not in (1, 3, 4):
