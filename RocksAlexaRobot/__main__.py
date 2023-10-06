@@ -85,7 +85,7 @@ PM_START_TEXT = """
 ────────────────────────
 ✪ sᴇɴᴅ /help ᴛᴏ ɢᴇᴛ sᴏᴍᴇ ᴜsᴀɢᴇs ᴏғ ᴄᴏᴍᴍᴀɴᴅs.
 ────────────────────────
-✪ [CHANNEL](t.me/AsadSupport) - [ɢʀᴏᴜᴘ](t.me/Shayri_Music_Lovers)
+✪ [CHANNEL](t.me/PurplePlaneteers) - [ɢʀᴏᴜᴘ](t.me/PurplePlaneteers)
 ────────────────────────
 ✪ ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』
 """
