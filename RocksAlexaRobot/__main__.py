@@ -90,8 +90,8 @@ PM_START_TEXT = """
 ✪ ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』
 """
 PMSTART_CHAT = (
-    "[ɢᴇᴛ ʙᴜsʏ ʟɪᴠɪɴɢ ᴏʀ ɢᴇᴛ ʙᴜsʏ ᴅʏɪɴɢ!!!](https://telegra.ph/file/f821830759461370f68d9.jpg)",
-    "[ɪ'ᴍ ᴅʀ ᴀsᴀᴅ ᴀʟɪ ᴘʀᴏᴊᴇᴄᴛ](https://telegra.ph/file/85e4f39239fd84a27d138.jpg)",
+    "[ɢᴇᴛ ʙᴜsʏ ʟɪᴠɪɴɢ ᴏʀ ɢᴇᴛ ʙᴜsʏ ᴅʏɪɴɢ!!!](https://te.legra.ph/file/5e3c7aef33003ba82d358.jpg)",
+    "[ɪ'ᴍ ᴅʀ ᴀsᴀᴅ ᴀʟɪ ᴘʀᴏᴊᴇᴄᴛ](https://te.legra.ph/file/5e3c7aef33003ba82d358.jpg)",
     "[ᴛᴜʀɴ ʏᴏᴜʀ ᴡᴏᴜɴᴅs ɪɴᴛᴏ ᴡɪsᴅᴏᴍ 🔥](https://telegra.ph/file/35e730dea457c85cc367b.mp4)",
     "[ʜᴀʜᴀʜᴀᴀ ɪ ᴀᴍ ᴀʟᴇx!!!!](https://telegra.ph/file/6f43301a3e43d20f7906a.jpg)", )
 
@@ -102,21 +102,14 @@ buttons = [
                             url="t.me/ALEXA_MANAGEMENTBOT?startgroup=true"),
                     ],
                    [
-                       InlineKeyboardButton(text="💌 ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="t.me/HarshitSharma361"),
-                       InlineKeyboardButton(text="💌 ʜᴇʟᴘᴇʀ", url="t.me/Part_Of_Rocks"),
+                       InlineKeyboardButton(text="💌 ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="t.me/Clauderis"),
+                       InlineKeyboardButton(text="💌 ʜᴇʟᴘᴇʀ", url="t.me/XiaoBai_ShiBa"),
                      ],
                     [                  
                        InlineKeyboardButton(
                              text="💌 ᴏᴡɴᴇʀ",
-                             url=f"https://t.me/Dr_Assad_Ali"),
-                       InlineKeyboardButton(
-                             text="💌 ɴᴇᴛᴡᴏʀᴋ",
-                             url=f"https://t.me/Shayri_Music_Lovers"),
+                             url=f"https://t.me/Clauderis"),
                         ],
-                       [
-                           InlineKeyboardButton(text="💓 ʟᴏᴠᴇ", url="t.me/Give_Me_Heart"
-         ),
-    ],
 ]
 
 HELP_STRINGS = """
@@ -127,8 +120,8 @@ HELP_STRINGS = """
 ✪ - /help: *sᴇɴᴅs ᴛʜɪs ᴍᴇssᴀɢᴇ; ɪ'ʟʟ ᴛᴇʟʟ ʏᴏᴜ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍʏsᴇʟғ!*
 ✪ - /donate: *ɢɪᴠᴇs ʏᴏᴜ ɪɴғᴏ ᴏɴ ʜᴏᴡ ᴛᴏ sᴜᴘᴘᴏʀᴛ ᴍᴇ ᴀɴᴅ ᴍʏ ᴄʀᴇᴀᴛᴏʀ.*
 ────────────────────────
-✪ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴏʀ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴏɴ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ: @Clauderis ᴏʀ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](http://t.me/Jankari_Ki_Duniya)
-✪ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ ᴛʜᴇ ғᴏʟʟᴏᴡɪɴɢ: [(/),(!),(?),(.),(~)](https://telegra.ph/file/9d22fedee29fdefdb4862.jpg)
+✪ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ʀᴇᴘᴏʀᴛ ʙᴜɢs ᴏʀ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴏɴ ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ: @Clauderis ᴏʀ ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](http://t.me/Clauderis)
+✪ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ ᴛʜᴇ ғᴏʟʟᴏᴡɪɴɢ: [(/),(!),(?),(.),(~)](https://te.legra.ph/file/5e3c7aef33003ba82d358.jpg)
 ✪ ʟɪsᴛ ᴏғ ᴀʟʟ ᴛʜᴇ ᴍᴏᴅᴜʟᴇs:
 ────────────────────────
 """.format(
@@ -137,11 +130,11 @@ HELP_STRINGS = """
 )
 
 HELP_MSG = "ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ʜᴇʟᴘ ᴍᴀɴᴜ ɪɴ ʏᴏᴜʀ ᴘᴍ."
-DONATE_STRING = """ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍʏ ʙᴏss [ᴏᴡɴᴇʀ](t.me/Dr_Asad_Ali)"""
-HELP_IMG= "https://telegra.ph/file/93aa52512ccd256888b28.jpg"
-GROUPSTART_IMG= "https://telegra.ph/file/35e730dea457c85cc367b.mp4"
+DONATE_STRING = """ᴄᴏɴᴛᴀᴄᴛ ᴛᴏ ᴍʏ ʙᴏss [ᴏᴡɴᴇʀ](t.me/Clauderis)"""
+HELP_IMG= "https://te.legra.ph/file/5e3c7aef33003ba82d358.jpg"
+GROUPSTART_IMG= "https://te.legra.ph/file/5e3c7aef33003ba82d358.jpg"
 
-PM_IMG = ( "https://telegra.ph/file/8d2bf852a53bd13fb8037.jpg",
+PM_IMG = ( "https://te.legra.ph/file/5e3c7aef33003ba82d358.jpg",
            "https://telegra.ph/file/6f43301a3e43d20f7906a.jpg",
            "https://telegra.ph/file/c71c9940f27143f1d6b7b.jpg",
            "https://telegra.ph/file/93aa52512ccd256888b28.jpg",
@@ -262,15 +255,15 @@ def start(update: Update, context: CallbackContext):
     else:
         first_name = update.effective_user.first_name
         update.effective_message.reply_video(
-            GROUPSTART_IMG, caption= "*ʜᴇʏ {},*\n*ᴏғғɪᴄɪᴀʟ ᴀʟᴇxᴀ ɪs ʜᴇʀᴇ*\n*ᴘᴏᴡᴇʀ ʟᴀᴠᴇʟ ᴛɪᴍᴇ* : {} ".format(
+            GROUPSTART_IMG, caption= "*ʜᴇʏ {},*\n*ᴏғғɪᴄɪᴀʟ Pᴜʀᴘʟᴇ Pʟᴀɴᴇᴛ Mᴀɴᴀɢᴇʀ ɪs ʜᴇʀᴇ*\n*ᴘᴏᴡᴇʀ ʟᴀᴠᴇʟ ᴛɪᴍᴇ* : {} ".format(
              first_name,uptime
             ),
             parse_mode=ParseMode.MARKDOWN,
         reply_markup=InlineKeyboardMarkup(
                 [
                   [
-                  InlineKeyboardButton(text="💌 ᴅᴇᴠᴇʟᴏᴘᴇʀ ", url=f"t.me/Dr_Assad_Ali"),
-                  InlineKeyboardButton(text="😎 ᴜᴘᴅᴀᴛᴇs ", url=f"t.me/AsadSupport"),
+                  InlineKeyboardButton(text="💌 ᴅᴇᴠᴇʟᴏᴘᴇʀ ", url=f"t.me/Clauderis"),
+                  InlineKeyboardButton(text="😎 ʜᴇʟᴘᴇʀ ", url=f"t.me/XiaoBai_ShiBa"),
                   ]
                 ]
             ),
@@ -349,7 +342,7 @@ def help_button(update, context):
         if mod_match:
             module = mod_match.group(1)
             text = (
-                "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ* © [ᴘᴜʀᴘʟᴇ ᴘʟᴀɴᴇᴛ](t.me/Dr_Assad_Ali) *ᴀɴᴅ* [Cʟᴀᴜᴅᴇ](t.me/HarshitSharma361)\n*ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ {} ᴍᴏᴅᴜʟᴇs:*\n".format(
+                "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ* © [ᴘᴜʀᴘʟᴇ ᴘʟᴀɴᴇᴛ](t.me/PurplePlaneteer) *ᴀɴᴅ* [Cʟᴀᴜᴅᴇ](t.me/Clauderis)\n*ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ғᴏʀ ᴛʜᴇ {} ᴍᴏᴅᴜʟᴇs:*\n".format(
                     HELPABLE[module].__mod_name__
                 )
                 + HELPABLE[module].__help__
@@ -417,7 +410,7 @@ def alexa_data_callback(update, context):
                 ]
             ),
         )
-    elif query.data == "purple_back":
+    elif query.data == "alexa_back":
         query.message.edit_text(
                 PM_START_TEXT,
                 reply_markup=InlineKeyboardMarkup(buttons),
